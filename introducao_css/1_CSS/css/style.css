@@ -8,10 +8,6 @@ h3 {
     color: green;
 }
 
-p {
-    color: blueviolet;
-}
-
 /* Algum comentário */
  
 /* Classes */
@@ -99,4 +95,17 @@ h2 {
 .bg-2 {
     background-color: rgb(200,20,40);
     color: #00eaff;
+}
+
+/* Background opacity */
+
+.bg-opacity {
+    background-color: green;
+    opacity: 0.2;
+}
+
+.bg-opacity-2 {
+    background-color: #999;
+    color: #000;
+    opacity: 0.8;
 }

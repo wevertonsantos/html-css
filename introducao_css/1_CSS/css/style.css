@@ -296,3 +296,13 @@ h2 {
     text-decoration: none;
     color: red;
 }
+
+/* Text transform */
+
+.upper {
+    text-transform: uppercase;
+}
+
+.lower {
+    text-transform: lowercase;
+}

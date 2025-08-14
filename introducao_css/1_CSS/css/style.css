@@ -260,3 +260,14 @@ h2 {
     background-color: #777;
     margin: 5px 10px 15px 20px;
 }
+
+/* Box model */
+
+.box-model {
+    margin: 20px;
+    padding: 15px 25px;
+    border: 3px solid #845;
+    border-radius: 7px;
+    width: 200px;
+    height: 400px;
+}
